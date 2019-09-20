@@ -1,1 +1,2 @@
-print('HomeWork2')
+a = 10
+if a = 10: print('HomeWork2')
